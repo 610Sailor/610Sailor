@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @610Sailor
-- 👀 I’m interested in learning JS and Solidity
-- 🌱 I’m currently learning JS
+- 👀 I’m interested in Unreal Engine
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me here on github
 
